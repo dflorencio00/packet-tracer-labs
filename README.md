@@ -10,7 +10,7 @@ Criar uma rede simples e testar a comunicação entre os dispositivos.
 ### Arquivos
 
 - Lab_IPV6_Daniel.pkt
-- topologia.png
+- Topologia.png
 
 ### Topologia
 
